@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romulofull
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Spring Boot, Java
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Spring Boot, Java, React
 - 📫 How to reach me romulo.castro@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I know to talk 3 Languages: Spanish, English, German
