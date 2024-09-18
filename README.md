@@ -9,18 +9,13 @@
 
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
-;Connect with me on **[LinkedIn]**
-- 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
-	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
+- 💬 Ask me about: anything, I am happy to help 
 
 ## 💻 Technologies 
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alr="NestJS" src="https://img.shields.io/badge/NestJs-ea2845.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img  alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -47,11 +42,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/MacOS--9cf?style=for-the-badge&logo=apple&logoColor=white"></a>
-    &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     &emsp;
 </p>
 
