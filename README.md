@@ -45,11 +45,7 @@
  
 <p>
   &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
@@ -102,9 +98,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=iscpatricio92&layout=compact&theme=algolia" alt="iscpatricio92" />
  </a>
 </p>
-
-
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
     alt="iscpatricio92" />
@@ -117,8 +110,6 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/patricio-gomez" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9591889/patricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="patricio" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/@iscpatricio](https://www.youtube.com/@Romulo2380)" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="iscpatricio" height="30" width="40" /></a>
 <a href="mailTo:isc.patricio@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
 <a href="https://github.com/iscpatricio92" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
