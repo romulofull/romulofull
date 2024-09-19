@@ -5,11 +5,31 @@
 
 - 🌱 I’m currently working as Freelance in web and mobile applications 
 - 📫 How to reach me romulo.castro@gmail.com
-- ⚡ Fun fact: ...I know to talk 3 Languages: Spanish, English, German
+- ⚡ I know to talk 3 Languages: Spanish, English, German
 
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
 - 💬 Ask me about: anything, I am happy to help 
+
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=GovindSingh9447&style=flat&color=blue"> •   
+  <a href="https://user-badge.committers.top/india_private/GovindSingh9447"><img src="https://user-badge.committers.top/india_private/GovindSingh9447.svg"></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/GovindSingh9447?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/GovindSingh9447?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+
+
+#
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=GovindSingh9447&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+</p>
+
 
 ## 💻 Technologies 
 
