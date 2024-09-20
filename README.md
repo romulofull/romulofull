@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋 I am Rómulo Castro</h1>
 
-> I am Sr FullStack Developer
+I am Sr FullStack Developer
 <br />
 - 🌱 I’m currently working as Freelance in web and mobile applications 
 - 📫 How to reach me romulo.castro@gmail.com
@@ -12,9 +12,9 @@
 
 
  <p style="margin-top: 20px;">
-    <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
+    <img align="right" height="250" width="250" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
 </p>
-## 💻 Technologies 
+# 💻 Technologies 
 
 <div>
  <img  alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
