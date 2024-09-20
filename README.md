@@ -11,8 +11,9 @@
 
 
 
-- <p><img align="right" height="200" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
+ <p style="margin-top: 20px;">
+    <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
+</p>
 ## 💻 Technologies 
 
 <div>
