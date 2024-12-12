@@ -9,7 +9,6 @@
         <img src="https://github.com/romulofull/romulofotos1/blob/main/foto1.png?raw=true" alt="Portfolio of Projects" />
         <img src="https://github.com/romulofull/fotoProyectos2/blob/main/Captura%20de%20pantalla%20(151).png?raw=true" alt="Portfolio of Projects" />
         <img src="https://github.com/romulofull/fotoProyecto3/blob/main/Captura%20de%20pantalla%20(165).png?raw=true" alt="Portfolio of Projects" />
-        <p>My approach has always been to listen carefully to my clients and work closely with them to understand their goals, in order to exceed expectations. I am now studying to become an Artificial Intelligence (AI) Analyst, focusing on Machine Learning and the combination of algorithms, data, and models to solve complex problems in various applications.</p>
     </div> 
     My approach has always been to listen carefully to my clients and work closely with them to understand their goals, in order to exceed expectations.
   I am now studying to become an Artificial Intelligence (AI) Analyst, Machine Learning and the combination of algorithms, data and models to solve complex problems in various applications.</p>
