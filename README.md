@@ -8,7 +8,7 @@
 <tr>
 <td width="50%">
 <div align="center">
-<img height="300" width="300"align="center"  src="https://github.com/romulofull/romulofotos1/blob/main/foto1.png?raw=true" alt="Portfolio of Projects">
+<img align="center"  src="https://github.com/romulofull/romulofotos1/blob/main/foto1.png?raw=true" alt="Portfolio of Projects">
 </div>                                                                                    
 </td>
 
