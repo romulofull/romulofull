@@ -25,7 +25,6 @@
 </td>       
 </table>  
     
-    <p>
-    My approach has always been to listen carefully to my clients and work closely with them to understand their goals, in order to exceed expectations.
-  I am now studying to become an Artificial Intelligence (AI) Analyst, Machine Learning and the combination of algorithms, data and models to solve complex problems in various applications.</p>
+My approach has always been to listen carefully to my clients and work closely with them to understand their goals, in order to exceed expectations.
+I am now studying to become an Artificial Intelligence (AI) Analyst, Machine Learning and the combination of algorithms, data and models to solve complex problems in various applications.</p>
 
