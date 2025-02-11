@@ -15,14 +15,14 @@
 </td>
 <td width="50%">
 <div align="center">                                       
-<img align="center"  src="https://github.com/romulofull/fotoProyectos2/blob/main/foto2.png?raw=true" alt="Portfolio of Projects" />
+<img align="center"  src="https://github.com/romulofull/fotoProyectos2/blob/main/Captura%20de%20pantalla%20(314).png?raw=true" alt="Portfolio of Projects" />
 </div>      
 </td>
 </table>  
 <table>
 <td width="50%">
 <div align="center">
-<img align="center" src="https://github.com/romulofull/fotoProyecto3/blob/main/foto3.png?raw=true" alt="Portfolio of Projects" />
+<img align="center" src="https://github.com/romulofull/fotoProyecto3/blob/main/Captura%20de%20pantalla%20(315).png?raw=true" alt="Portfolio of Projects" />
 </div>                                                                               
 </td>       
 </table>  
