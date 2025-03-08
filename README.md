@@ -35,6 +35,5 @@
 </td>         
 </table>  
     
-My approach has always been to listen carefully to my clients and work closely with them to understand their goals, in order to exceed expectations.
-I am now studying to become an Artificial Intelligence (AI) Analyst, Machine Learning and the combination of algorithms, data and models to solve complex problems in various applications.</p>
+I am a Full Stack developer with experience in building complete web applications, covering both frontend and backend. Currently, I am expanding my knowledge into Artificial Intelligence, focusing on advanced Machine Learning and Deep Learning techniques. My goal is to integrate innovative solutions that combine web development with intelligent capabilities. I am constantly learning to deliver cutting-edge technological solutions.</p>
 
