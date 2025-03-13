@@ -35,5 +35,5 @@
 </td>         
 </table>  
     
-I'm a Full-Stack Developer with experience developing web applications. Currently, I develop Machine Learning and Deep Learning models. My main interest is using artificial intelligence to solve complex problems and improve the user experience by creating more personalized and intelligent solutions. I'm constantly learning new techniques and exploring ways to integrate AI with web development. My goal is to innovate by combining both areas to offer applications that are not only functional but also adaptive and efficient.</p>
+I'm a Full-Stack Developer with experience developing web applications. Currently, I develop Machine Learning and Deep Learning models. My main interest is using Artificial Intelligence to solve complex problems and improve the user experience by creating more personalized and intelligent solutions. I'm constantly learning new techniques and exploring ways to integrate AI with web development. My goal is to innovate by combining both areas to offer applications that are not only functional but also adaptive and efficient.</p>
 
