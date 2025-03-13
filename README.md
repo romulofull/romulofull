@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy Rómulo </a> 👋</h1>
-</div>  <img align="right" height="250" width="300"  src="https://github.com/romulofull/logo/blob/main/MILOGO.jpg?raw=true" alt="Rómulo's Logo" style="border-radius: 15px;"/>
+</div>  <img align="right" height="250" width="300"  src="https://github.com/romulofull/logo/blob/main/MILOGO.jpg?raw=true" alt="Rómulo's Logo" style="border-radius: 35px;"/>
 <h3> About me </h3>
 <p> I am a Senior Full Stack Developer with extensive experience in creating web and mobile applications. I currently work as a freelancer, delivering tailored solutions to meet client needs.</p> <p>**Contact Information:**</p> <ul> <li>Email: <a href="mailto:romulo.castro@gmail.com">romulo.castro@gmail.com</a></li> </ul> <p>**Languages Spoken:**</p> <ul> <li>Spanish</li> <li>English</li> <li>German</li> </ul> <p>If you have any questions or need assistance, feel free to reach out!</p> 
 
