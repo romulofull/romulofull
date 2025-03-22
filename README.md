@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy Rómulo 👋</h1>
-<img align="right" height="150" width="100" src="https://github.com/romulofull/logo/blob/main/fototo.png?raw=true" alt="Rómulo's Logo" style="border-radius: 35px;"/></div>
+<img align="right" height="100" width="100" src="https://github.com/romulofull/logo/blob/main/fototo.png?raw=true" alt="Rómulo's Logo" style="border-radius: 35px;"/></div>
 <h3> About me </h3>
 <p> I am a Senior Full Stack Developer with expertise in Machine Learning. I currently work as a freelancer, delivering tailored solutions to meet client needs.</p> <p>Contact Information:</p> <li> Email: <a href="mailto:romulo.castro@gmail.com">romulo.castro@gmail.com</a> </li> <p><li>Languages Spoken: Spanish, English and German </li> </p> 
 
