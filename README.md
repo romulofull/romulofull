@@ -35,12 +35,16 @@
 </td>         
 </table>  
     Currently, I develop Machine Learning and Deep Learning models. My main interest is using Artificial Intelligence to solve complex problems and improve the user experience by creating more personalized and intelligent solutions. I'm constantly learning new techniques and exploring ways to integrate AI with web development. My goal is to innovate by combining both areas to offer applications that are not only functional but also adaptive and efficient.</p>
-
 <table>
 <tr>
 <td width="50%">
 <div align="center">
-<img align="center"  src="https://github.com/romulofull/fotoproyecto4/blob/main/Captura%20de%20pantalla%20(441).png" alt="Portfolio of Projects"/>
+<img align="center"  src="https://github.com/romulofull/fotoproyecto4/blob/main/Captura%20de%20pantalla%20(443).png" alt="Portfolio of Projects"/>
 </div>                                                                                    
 </td>
-</table> 
+<td width="50%">
+<div align="center">                                       
+<img align="center"  src="https://github.com/romulofull/fotoproyecto5/blob/main/Captura%20de%20pantalla%20(444).png" alt="Portfolio of Projects" />
+</div>      
+</td>
+</table>  
