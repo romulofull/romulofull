@@ -50,3 +50,16 @@
 </div>
 </td>    
 </table>
+<table>
+<tr>    
+<td width="50%">    
+<div align="center">
+<img align="center" src="https://github.com/romulofull/fotoproyecto6/blob/main/Captura%20de%20pantalla%20(453).png?raw=true" alt="Portfolio of Projects" />
+</div> 
+</td>
+<td width="50%">        
+<div align="center">
+<img align="center" src="https://github.com/romulofull/fotoproyecto7/blob/main/Captura%20de%20pantalla%20(454).png?raw=true" />
+</div>
+</td>    
+</table>  
