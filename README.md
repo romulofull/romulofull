@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://github.com/romulofull/portada/blob/main/Captura%20de%20pantalla%20(469).png" width="150" style="border-radius: 50%;"/>
 <h1 align="center">Hola, soy Rómulo 👋</h1>
 <img align="right" height="100" width="100" src="https://github.com/romulofull/logo/blob/main/fototo.png?raw=true" alt="Rómulo's Logo" style="border-radius: 35px;"/></div>
 <h3> About me </h3>
