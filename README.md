@@ -8,7 +8,7 @@
 
 <h3>IA Technologies & Tools </h3> <div> <img height="28" width="100" alt="React" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)"/>  <img height="28" width="100"  alt="Microsoft Excel" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> <img height="28" width="100" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&color=008000"/> <img height="28" width="100" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> <img height="28" width="100" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img height="28" width="100" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/> <img height="28" width="100" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"</div>
     
-<h3>My Projects</h3>
+<h3>My Projects Full Stack Developer</h3>
 <table>
 <tr>
 <td width="50%">
@@ -35,7 +35,7 @@
 </div>
 </td>    
 </table>  
-    Currently, I develop Machine Learning and Deep Learning models. My main interest is using Artificial Intelligence to solve complex problems and improve the user experience by creating more personalized and intelligent solutions. I'm constantly learning new techniques and exploring ways to integrate AI with web development. My goal is to innovate by combining both areas to offer applications that are not only functional but also adaptive and efficient.</p>
+  
 <h3>My Projects AI/ML </h3>
 <table>
 <tr>    
