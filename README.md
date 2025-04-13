@@ -13,7 +13,7 @@
 <tr>
 <td width="50%">
 <div align="center">
-<img align="center"  src="https://github.com/romulofull/romulofotos1/blob/main/foto1.png?raw=true" alt="Portfolio of Projects"/>
+<img align="center"  src="https://github.com/romulofull/romulofotos1/blob/main/Captura%20de%20pantalla%20(464).png?raw=true" alt="Portfolio of Projects"/>
 </div>                                                                                    
 </td>
 <td width="50%">
