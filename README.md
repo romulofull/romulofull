@@ -1,5 +1,8 @@
 <div align="center">
-    <img src="https://github.com/romulofull/portada/blob/main/Captura%20de%20pantalla%20(484).png" width="450" height="200" style="border-radius: 50px;"/>
+  <img src="https://raw.githubusercontent.com/romulofull/portada/main/Captura%20de%20pantalla%20(484).png" 
+       width="450" 
+       height="200" 
+       style="border-radius: 50px;" />
 </div>
 <h3> About me </h3>
 <p> I am a Senior Full Stack Developer + ML/DL Specialist. I currently work as a freelancer, delivering tailored solutions to meet client needs.</p> </li> <p><li>Languages Spoken: Spanish, English and German </li> </p> 
