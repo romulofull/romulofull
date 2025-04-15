@@ -39,7 +39,7 @@
 </td>    
 </table>  
   
-<h3>My Projects AI/ML </h3>
+<h3>My Projects ML/DL </h3>
 <table>
 <tr>    
 <td width="50%">    
