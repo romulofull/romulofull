@@ -44,7 +44,7 @@
 <tr>    
 <td width="50%">    
 <div align="center">
-<img align="center" src="https://github.com/romulofull/fotoproyecto4/blob/main/Captura%20de%20pantalla%20(491).png)?raw=true" alt="Portfolio of Projects" />
+<img align="center" src="https://github.com/romulofull/fotoproyecto4/blob/main/Captura%20de%20pantalla%20(491).png?raw=true" alt="Portfolio of Projects" />
 </div> 
 </td>
 <td width="50%">        
