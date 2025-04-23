@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=800080" height="28"width="100" /> </p>
 
     
-<h3>My Projects Full Stack Developer</h3>
+<h3>🚀 My Projects Full Stack Developer</h3>
 <table>
 <tr>
 <td width="50%">
@@ -49,7 +49,7 @@
 </td>    
 </table>  
   
-<h3>My Projects ML/DL </h3>
+<h3>🤖 My Projects ML/DL </h3>
 <table>
 <tr>    
 <td width="50%">    
