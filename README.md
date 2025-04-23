@@ -1,10 +1,4 @@
-<style>
-    .badges-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-</style>
+
 <div align="center">
   <img src="https://github.com/romulofull/portada/blob/main/Captura%20de%20pantalla%20(488).png" 
        width="500" 
