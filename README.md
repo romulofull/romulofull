@@ -26,12 +26,12 @@
 <tr>
 <td width="50%">
 <div align="center">
-<img align="center"  src="https://github.com/romulofull/romulofotos1/blob/main/Captura%20de%20pantalla%20(464).png?raw=true" alt="Portfolio of Projects"/>
+<img align="center"  src="https://github.com/romulofull/romulofotos1/blob/main/Captura%20de%20pantalla%20(500).png?raw=true" alt="Portfolio of Projects"/>
 </div>                                                                                    
 </td>
 <td width="50%">
 <div align="center">                                       
-<img align="center"  src="https://github.com/romulofull/fotoProyectos2/blob/main/Captura%20de%20pantalla%20(461).png?raw=true" alt="Portfolio of Projects" />
+<img align="center"  src="https://github.com/romulofull/fotoProyectos2/blob/main/Captura%20de%20pantalla%20(501).png?raw=true" alt="Portfolio of Projects" />
 </div>      
 </td>
 </table>  
@@ -39,12 +39,12 @@
 <tr>    
 <td width="50%">    
 <div align="center">
-<img align="center" src="https://github.com/romulofull/fotoProyecto3/blob/main/Captura%20de%20pantalla%20(498).png?raw=true" alt="Portfolio of Projects" />
+<img align="center" src="https://github.com/romulofull/fotoProyecto3/blob/main/Captura%20de%20pantalla%20(502).png?raw=true" alt="Portfolio of Projects" />
 </div> 
 </td>
 <td width="50%">        
 <div align="center">
-<img align="center" src="https://github.com/romulofull/FotoProjecto4/blob/main/Captura%20de%20pantalla%20(460).png?raw=true" />
+<img align="center" src="https://github.com/romulofull/FotoProjecto4/blob/main/Captura%20de%20pantalla%20(503).png?raw=true" />
 </div>
 </td>    
 </table>  
