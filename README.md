@@ -44,7 +44,7 @@
 </td>
 <td width="50%">        
 <div align="center">
-<img align="center" src="https://github.com/romulofull/FotoProjecto4/blob/main/Captura%20de%20pantalla%20(503).png?raw=true" />
+<img align="center" src="https://github.com/romulofull/FotoProjecto4/blob/main/Captura%20de%20pantalla%20(525).png?raw=true" />
 </div>
 </td>    
 </table>  
