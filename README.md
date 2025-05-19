@@ -55,7 +55,6 @@
 <img align="center" src="https://github.com/romulofull/fotoProyecto3/blob/main/Captura%20de%20pantalla%20(502).png?raw=true" alt="Portfolio of Projects" />
 </div> 
 </td>
-
 <table>
 <tr>    
 <td width="50%">    
