@@ -55,14 +55,14 @@
 <img align="center" src="https://github.com/romulofull/fotoProyecto3/blob/main/Captura%20de%20pantalla%20(502).png?raw=true" alt="Portfolio of Projects" />
 </div> 
 </td>
-<table>
-<tr>    
 <td width="50%">    
 <div align="center">
 <img align="center" src="https://github.com/romulofull/romulofoto5/blob/main/Captura%20de%20pantalla%20(549).png?raw=true" alt="Portfolio of Projects" />
 </div> 
-</td>
-  
+</td>  
+<table>
+<tr>    
+
 <h3>🤖 My Projects ML/DL </h3>
 <table>
 <tr>    
