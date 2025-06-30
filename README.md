@@ -28,6 +28,11 @@
 <img align="center" src="https://github.com/romulofull/romulofoto5/blob/main/Captura%20de%20pantalla%20(611).png?raw=true" alt="Portfolio of Projects" />
 </div> 
 </td>  
+<td width="50%">    
+<div align="center">
+<img align="center" src="https://github.com/romulofull/fotoproyecto8/blob/main/Captura%20de%20pantalla%20(635).png?raw=true" alt="Portfolio of Projects" />
+</div> 
+</td>    
 </table>  
 
 <h3>🚀 My Projects Full Stack Developer</h3>
