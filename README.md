@@ -30,7 +30,7 @@
 </td>  
 <td width="50%">    
 <div align="center">
-<img align="center" src="https://github.com/romulofull/fotoproyecto8/blob/main/Captura%20de%20pantalla%20(638).png?raw=true" alt="Portfolio of Projects" />
+<img align="center" src="https://github.com/romulofull/fotoproyecto8/blob/main/Captura%20de%20pantalla%20(639).png?raw=true" alt="Portfolio of Projects" />
 </div> 
 </td>    
 </table>  
