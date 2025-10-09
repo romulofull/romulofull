@@ -6,7 +6,7 @@
        style="border-radius: 50px;" />
 </div>
 <div> <h1> 👨‍💻 About me</h1>
-<p> I am a Senior Full Stack Developer with a strong background in Machine Learning ML and Deep Learning DL. I currently work as a Freelancer. I specialize in building tailored, scalable, and efficient solutions that meet client-specific needs.</p> </li> <p><li>🌐Languages Spoken: Spanish, English and German </li> <li>🛠️ Experienced in both Frontend and Backend technologies</li>  <li>🧠 Enthusiastic about ML/DL</li> </p> 
+<p> I am a Senior Full Stack Developer with a strong background in Machine Learning ML and Deep Learning DL. I currently work as a Freelancer. I specialize in building tailored, scalable, and efficient solutions that meet client-specific needs.</p> </li> <p><li>🌐Languages Spoken: Spanish, English and German </li> <li>🛠️ Experienced in both Frontend and Backend technologies</li>  <li>🧠 Specialist about ML/DL</li> </p> 
 </div>
 <h3>Full Stack Technologies & Tools </h3> 
 <p align="center"style="width: 500px">
