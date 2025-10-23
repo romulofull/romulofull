@@ -57,6 +57,13 @@
   <img src="https://img.shields.io/badge/Web_Scraping-FFD700?style=for-the-badge&logo=python&logoColor=black" height="28"/>
 </p>
 
+<h3>Mathematical & Statistical Foundations</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Linear_Algebra-0078D7?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Calculus-FF6F00?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Probability_&_Statistics-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+</p>
+
 <h3>👨‍💻✨Ültimos Proyectos de FULLSTACK</h3>
 <table>
 <tr>    
