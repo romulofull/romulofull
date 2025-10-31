@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="https://github.com/romulofull/portada/blob/main/Captura%20de%20pantalla%20(960).png" 
-       width="800" 
+       width="850" 
        height="300" 
        style="border-radius: 50px;" />
 </div>
