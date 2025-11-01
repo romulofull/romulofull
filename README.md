@@ -16,14 +16,9 @@
        style="border-radius: 50px;" />
 </p>
 <h3>IA Technologies & Tools </h3> <p>  <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Matplotlib-008B8B?style=for-the-badge&logo=matplotlib&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Web_Scraping-FFD700?style=for-the-badge&logo=python&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Scikit--leahttps://github.com/romulofull/banner-tecnologias2/blob/main/Captura%20de%20pantalla%20(977).png    width="850" 
+       height="300" 
+       style="border-radius: 50px;" />
 </p>
 
 <h3>Mathematical & Statistical Foundations</h3>
