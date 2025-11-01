@@ -10,7 +10,7 @@
 </div>
 <h3>Full Stack Technologies & Tools </h3> 
 <p align="center"style="width: 500px">
-  <img src="https://github.com/romulofull/banner-tecnologias/blob/main/Captura%20de%20pantalla%20(976).png
+  <img src="https://github.com/romulofull/banner-tecnologias/blob/main/Captura%20de%20pantalla%20(976).png"
        width="850" 
        height="300" 
        style="border-radius: 50px;" />
