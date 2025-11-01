@@ -23,9 +23,9 @@
 
 <h3>Mathematical & Statistical Foundations</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Linear_Algebra-0078D7?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Calculus-FF6F00?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Probability_&_Statistics-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+<img [src="https://github.com/romulofull/banner-tecnologias3/blob/main/Captura%20de%20pantalla%20(978).png"width="850" 
+       height="300" 
+       style="border-radius: 50px;" />
 </p>
 
 <h3>👨‍💻✨Ültimos Proyectos de FULLSTACK</h3>
