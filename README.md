@@ -23,7 +23,7 @@
 
 <h3>Mathematical & Statistical Foundations</h3>
 <p align="center">
-<img [src="https://github.com/romulofull/banner-tecnologias3/blob/main/Captura%20de%20pantalla%20(978).png"width="850" 
+<img src="https://github.com/romulofull/banner-tecnologias3/blob/main/Captura%20de%20pantalla%20(978).png"width="850" 
        height="300" 
        style="border-radius: 50px;" />
 </p>
