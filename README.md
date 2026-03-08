@@ -16,7 +16,7 @@
        style="border-radius: 50px;"/>
 </p>
 <h3>IA Technologies & Tools </h3> <p>  <p align="center">
-  <img src="https://github.com/romulofull/banner-tecnologias2/blob/main/Captura%20de%20pantalla%20(977).png"    width="850" 
+  <img src="https://github.com/romulofull/banner-tecnologias2/blob/main/Captura%20de%20pantalla%20(1279).png"    width="850" 
        height="300" 
        style="border-radius: 50px;" />
 </p>
